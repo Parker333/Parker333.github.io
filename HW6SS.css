@@ -13,8 +13,12 @@ h1
     text-decoration: underline;
 }
 
-.NavigationBar 
+h2 
 {
+    text-decoration: underline;
+}
+
+.NavigationBar {
     background-color: indianred;
     overflow: hidden;
     width: 41vh;
@@ -42,15 +46,113 @@ h1
     background-color: white;
     color: indianred;
     text-decoration: none;
-    margin: 5px;
+    margin: 15px;
     padding: 1em 1.5em;
     display: block;
     border-radius: 30px;
     width: 70vh;
-    border: dotted 5px black;
-    
+    border: dashed 5px black;
+    text-align: left;
 }
 b
 {
     font-size: 40px;
+}
+
+.Intro 
+{
+    background-color: white;
+    color: indianred;
+    text-decoration: none;
+    margin: 15px;
+    padding: 1em 1.5em;
+    display: block;
+    border-radius: 30px;
+    width: 70vh;
+    border: dashed 5px black;
+    text-align: left;
+}
+
+.AboutMe 
+{
+    background-color: white;
+    color: indianred;
+    text-decoration: none;
+    margin: 15px;
+    padding: 1em 1.5em;
+    display: block;
+    border-radius: 30px;
+    width: 70vh;
+    border: dashed 5px black;
+    text-align: left;
+}
+
+.EmployeementHistory 
+{
+    background-color: white;
+    color: indianred;
+    text-decoration: none;
+    margin: 15px;
+    padding: 1em 1.5em;
+    display: block;
+    border-radius: 30px;
+    width: 70vh;
+    border: dashed 5px black;
+    text-align:left;
+}
+
+.Education 
+{
+    background-color: white;
+    color: indianred;
+    text-decoration: none;
+    margin: 15px;
+    padding: 1em 1.5em;
+    display: block;
+    border-radius: 30px;
+    width: 70vh;
+    border: dashed 5px black;
+    text-align: left;
+}
+
+.Projects 
+{
+    background-color: white;
+    color: indianred;
+    text-decoration: none;
+    margin: 15px;
+    padding: 1em 1.5em;
+    display: block;
+    border-radius: 30px;
+    width: 70vh;
+    border: dashed 5px black;
+    text-align: left;
+}
+
+.SkillSets 
+{
+    background-color: white;
+    color: indianred;
+    text-decoration: none;
+    margin: 15px;
+    padding: 1em 1.5em;
+    display: block;
+    border-radius: 30px;
+    width: 70vh;
+    border: dashed 5px black;
+    text-align: left;
+}
+
+.PersonalSkills 
+{
+    background-color: white;
+    color: indianred;
+    text-decoration: none;
+    margin: 15px;
+    padding: 1em 1.5em;
+    display: block;
+    border-radius: 30px;
+    width: 70vh;
+    border: dashed 5px black;
+    text-align: left;
 }
